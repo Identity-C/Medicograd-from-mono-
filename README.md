@@ -1,4 +1,4 @@
-# Medical Chatbot for Disease Prediction
+# Support Vector Machines - Medical Chatbot for Disease Prediction
 
 This repository contains code for a medical chatbot that uses machine learning techniques to predict diseases based on patient transcripts. The chatbot is implemented using Python and utilizes the Scikit-learn library for Support Vector Machine (SVM) classification and TF-IDF vectorization.
 
